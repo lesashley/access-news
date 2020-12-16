@@ -2,6 +2,9 @@
   "name": "access-news",
   "version": "1.0.0",
   "description": "Access news.",
+  "engines": {
+    "node": "11.x"
+  },
   "main": "server.js",
   "scripts": {
     "test": "test",
